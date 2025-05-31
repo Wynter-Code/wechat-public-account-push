@@ -8,10 +8,10 @@
 const USER_CONFIG = {
 
   // 使用微信测试号：公众号APP_ID
-  APP_ID: 'wx6f4b94ef1cbb8dab',
+  APP_ID: 'wx7cd33071c528e910',
 
   // 使用微信测试号：公众号APP_SECRET
-  APP_SECRET: '71e4395652175c8add116185a255917d',
+  APP_SECRET: '4a746f27599a0ff1db4f5c8f9be82393',
 
   PROVINCE: '河南',
   CITY: '周口',
@@ -21,9 +21,9 @@ const USER_CONFIG = {
       // 想要发送的人的名字
       name: '可可小宝儿',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'o2BWV6m2HZAe9kmyZXDIgX3WE0p0',
+      id: 'oRxHe7ZdiwsDbdb2-O7DJebQ_zDk',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: '-L0CWM_ja_d54MmTsINZ0d0LHKMHZdIJdWOJkTxqDsU',
+      useTemplateId: 'MI7tEOU-JhipG1PJg65-Ku-Kot2l0Wk0SEjD_QNPoXM',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '10-02',
       festivals: [
@@ -61,7 +61,7 @@ const USER_CONFIG = {
     {
       name: '自己',
       // 使用微信测试号：自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'o2BWV6m1LpoJUpC7WA5An1QhJaOo',
+      id: 'oRxHe7erY8g51q5oSoqAO2ZxwOKo',
     }
   ],
 
